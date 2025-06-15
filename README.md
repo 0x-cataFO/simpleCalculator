@@ -43,6 +43,12 @@ Choose an operation (1, 2, 3, 4): 1
 Enter the first number: 10
 Enter the second number: 5
 10 added to 5 = 15
-
-
 ```
+
+### Contributing
+
+Contributions are welcome! Feel free to open a pull request or raise an issue for discussion.
+
+### Author
+
+\__loper_
